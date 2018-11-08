@@ -1,0 +1,28 @@
+
+**** Trace file opened at 2018-10-31, 11:02:19 Malay Peninsula Standard Time
+ RFC library: 720, Current working directory: C:\Users\PAC\Desktop\pyrfc\py27-sapwnrfc2, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 142 Step 9), Operating_system: Windows NT 6.3, Kernel_release: 720 patchlevel 20
+ Hostname: DESKTOP-VHVJG0U, IP address: 10.5.116.20, IP address_v6: 10.5.116.20
+
+An error has occurred while parsing a dynamic entry.
+
+**** Trace file opened at 2018-10-31, 11:03:40 Malay Peninsula Standard Time
+ RFC library: 720, Current working directory: C:\Users\PAC\Desktop\pyrfc\py27-sapwnrfc2, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 142 Step 9), Operating_system: Windows NT 6.3, Kernel_release: 720 patchlevel 20
+ Hostname: DESKTOP-VHVJG0U, IP address: 10.5.116.20, IP address_v6: 10.5.116.20
+
+An error has occurred while parsing a dynamic entry.
+
+**** Trace file opened at 2018-10-31, 11:06:16 Malay Peninsula Standard Time
+ RFC library: 720, Current working directory: C:\Users\PAC\Desktop\pyrfc\py27-sapwnrfc2, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 142 Step 9), Operating_system: Windows NT 6.3, Kernel_release: 720 patchlevel 20
+ Hostname: DESKTOP-VHVJG0U, IP address: 10.5.116.20, IP address_v6: 10.5.116.20
+
+An error has occurred while parsing a dynamic entry.
+
+**** Trace file opened at 2018-10-31, 16:03:08 Malay Peninsula Standard Time
+ RFC library: 720, Current working directory: C:\Users\PAC\Desktop\pyrfc\py27-sapwnrfc2, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 142 Step 9), Operating_system: Windows NT 6.3, Kernel_release: 720 patchlevel 20
+ Hostname: DESKTOP-VHVJG0U, IP address: 10.5.116.20, IP address_v6: 10.5.116.20
+
+Function module "ZBPC_BPF_WS_SET" cannot be used for 'remote' calls.
